@@ -3,12 +3,11 @@ guid: 6ee455897a1df114db6047a1bd5f6c10
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
+  fontSize: 300
+  forceTextureCase: -1
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Orange Kid
   fontNames:
   - Orange Kid
   fallbackFontReferences: []
