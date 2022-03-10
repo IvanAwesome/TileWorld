@@ -99,4 +99,5 @@ MonoBehaviour:
   unitLevel: 17
   damage: 10
   maxHP: 200
-  currentHP: 199
+  currentHP: 200
+  dialogue: {fileID: 0}

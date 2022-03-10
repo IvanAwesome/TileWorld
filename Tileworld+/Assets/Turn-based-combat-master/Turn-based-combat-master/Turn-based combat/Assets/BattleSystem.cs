@@ -112,10 +112,10 @@ public class BattleSystem : MonoBehaviour
 
 	IEnumerator PlayerHeal()
 	{
-		playerUnit.Heal(5);
+		playerUnit.Heal(10);
 
 		playerHUD.SetHP(playerUnit.currentHP);
-		dialogueText.text = "You feel renewed strength!";
+		dialogueText.text = "You regenerate unnaturally!";
 
 		yield return new WaitForSeconds(2f);
 

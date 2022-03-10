@@ -96,7 +96,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   unitName: Hat Man
-  unitLevel: 100
-  damage: 25
+  unitLevel: 20
+  damage: 20
   maxHP: 100
   currentHP: 100
+  dialogue: {fileID: 0}
