@@ -57,7 +57,7 @@ public class BattleSystem : MonoBehaviour
 		enemyHUD.SetHP(enemyUnit.currentHP);
 		dialogueText.text = "The attack is successful!";
 
-		yield return new WaitForSeconds(2f);
+		yield return new WaitForSeconds(0f);
 
 		if(isDead)
 		{
