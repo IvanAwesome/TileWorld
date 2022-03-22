@@ -102,6 +102,8 @@ public class BattleSystem : MonoBehaviour
 		} else if (state == BattleState.LOST)
 		{
 			dialogueText.text = "You were defeated.";
+			//yield return new WaitForSeconds(3f);
+			//SceneManager.LoadScene("gameover");
 		}
 	}
 
@@ -117,7 +119,7 @@ public class BattleSystem : MonoBehaviour
 		playerHUD.SetHP(playerUnit.currentHP);
 		dialogueText.text = "You regenerate unnaturally!";
 
-		yield return new WaitForSeconds(2f);
+		yield return new WaitForSeconds(0f);
 
 		state = BattleState.ENEMYTURN;
 		StartCoroutine(EnemyTurn());
