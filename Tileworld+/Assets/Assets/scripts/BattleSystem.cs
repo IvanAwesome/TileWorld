@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 
 public class BattleSystem : MonoBehaviour
@@ -85,7 +85,7 @@ public class BattleSystem : MonoBehaviour
 		if(isDead)
 		{
 			state = BattleState.LOST;
-			EndBattle();
+			StartCoroutine(EndBattle());
 		} else
 		{
 			state = BattleState.PLAYERTURN;
@@ -94,16 +94,21 @@ public class BattleSystem : MonoBehaviour
 
 	}
 
-	void EndBattle()
+	IEnumerator EndBattle()
 	{
 		if(state == BattleState.WON)
 		{
 			dialogueText.text = "You won the battle!";
-		} else if (state == BattleState.LOST)
+		} 
+		else if(state == BattleState.LOST)
 		{
-			dialogueText.text = "You were defeated.";
-			//yield return new WaitForSeconds(3f);
-			//SceneManager.LoadScene("gameover");
+			if (playerUnit.currentHP == 0)
+            {
+				dialogueText.text = "You were defeated.";
+				yield return new WaitForSeconds(3f);
+				SceneManager.LoadScene("gameover");
+			}
+	
 		}
 	}
 
@@ -114,7 +119,7 @@ public class BattleSystem : MonoBehaviour
 
 	IEnumerator PlayerHeal()
 	{
-		playerUnit.Heal(10);
+		playerUnit.Heal(11);
 
 		playerHUD.SetHP(playerUnit.currentHP);
 		dialogueText.text = "You regenerate unnaturally!";
