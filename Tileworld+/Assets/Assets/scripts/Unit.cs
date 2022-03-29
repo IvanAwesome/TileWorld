@@ -18,9 +18,9 @@ public class Unit : MonoBehaviour
 
 	public bool TakeDamage(int dmg)
 	{
-		currentHP -= dmg;
+		currentHP = Mathf.Max(currentHP - dmg, 0);
 
-		if (currentHP <= 0)
+		if (currentHP == 0)
 			return true;
 		else
 			return false;

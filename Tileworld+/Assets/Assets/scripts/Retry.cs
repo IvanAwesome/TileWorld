@@ -20,3 +20,4 @@ public class Retry : MonoBehaviour
         SceneManager.LoadScene("firstencounter");
     }
 }
+//SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);

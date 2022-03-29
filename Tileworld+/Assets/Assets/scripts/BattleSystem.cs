@@ -62,7 +62,7 @@ public class BattleSystem : MonoBehaviour
 		if(isDead)
 		{
 			state = BattleState.WON;
-			EndBattle();
+			StartCoroutine(EndBattle());
 		} else
 		{
 			state = BattleState.ENEMYTURN;
@@ -74,7 +74,7 @@ public class BattleSystem : MonoBehaviour
 	{
 		dialogueText.text = enemyUnit.unitName + " attacks!";
 
-		yield return new WaitForSeconds(1f);
+		yield return new WaitForSeconds(0.75f);
 
 		bool isDead = playerUnit.TakeDamage(enemyUnit.damage);
 
@@ -96,9 +96,15 @@ public class BattleSystem : MonoBehaviour
 
 	IEnumerator EndBattle()
 	{
+		Debug.Log("ah");
 		if(state == BattleState.WON)
 		{
-			dialogueText.text = "You won the battle!";
+			if (enemyUnit.currentHP == 0)
+			{
+				dialogueText.text = "You won the battle!";
+				yield return new WaitForSeconds(3f);
+				SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+			}
 		} 
 		else if(state == BattleState.LOST)
 		{
