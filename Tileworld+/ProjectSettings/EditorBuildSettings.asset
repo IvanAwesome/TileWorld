@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/Scenes/secondencounter.unity
     guid: dd2327bc88cfd4a4bb1fb0b97a6ddd76
+  - enabled: 1
+    path: Assets/Assets/Scenes/thirdencounter.unity
+    guid: dbafb362f7ce86947bd4f2a10fdc6b57
   m_configObjects: {}
