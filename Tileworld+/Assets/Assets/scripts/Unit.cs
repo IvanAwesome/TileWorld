@@ -10,14 +10,18 @@ public class Unit : MonoBehaviour
 
 	public int damage;
 
+
 	public int maxHP;
 	public int currentHP;
 
 	public GameObject dialogue;
 	
 
+
 	public bool TakeDamage(int dmg)
 	{
+		dmg = Random.Range(1, 25);
+
 		currentHP = Mathf.Max(currentHP - dmg, 0);
 
 		if (currentHP == 0)

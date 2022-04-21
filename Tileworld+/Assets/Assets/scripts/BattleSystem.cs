@@ -96,7 +96,7 @@ public class BattleSystem : MonoBehaviour
 
 	IEnumerator EndBattle()
 	{
-		Debug.Log("ah");
+		Debug.Log("hey :)");
 		if(state == BattleState.WON)
 		{
 			if (enemyUnit.currentHP == 0)

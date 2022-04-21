@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   unitName: Dev Dude
-  unitLevel: 999
+  unitLevel: 30
   damage: 50
   maxHP: 40
   currentHP: 40
