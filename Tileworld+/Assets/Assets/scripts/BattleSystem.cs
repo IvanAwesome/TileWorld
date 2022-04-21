@@ -23,12 +23,14 @@ public class BattleSystem : MonoBehaviour
 	public BattleHUD enemyHUD;
 
 	public BattleState state;
+	public Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
 		state = BattleState.START;
 		StartCoroutine(SetupBattle());
+		anim = GetComponent<Animator>();
     }
 
 	IEnumerator SetupBattle()
@@ -53,7 +55,7 @@ public class BattleSystem : MonoBehaviour
 	IEnumerator PlayerAttack()
 	{
 		bool isDead = enemyUnit.TakeDamage(playerUnit.damage);
-
+		anim.SetTrigger("attack");
 		enemyHUD.SetHP(enemyUnit.currentHP);
 		dialogueText.text = "The attack is successful!";
 

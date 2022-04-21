@@ -12820,6 +12820,7 @@ GameObject:
   - component: {fileID: 1352582009}
   - component: {fileID: 1352582008}
   - component: {fileID: 1352582011}
+  - component: {fileID: 1352582012}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -12895,6 +12896,26 @@ MonoBehaviour:
   playerHUD: {fileID: 1279368811}
   enemyHUD: {fileID: 1396839204}
   state: 0
+  anim: {fileID: 570627729057713153, guid: 9bc48bfd048acc0488550f32de85a288, type: 3}
+--- !u!95 &1352582012
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1352582007}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c43e7f47f662de94e812ec5e9dece223, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1393315184
 PrefabInstance:
   m_ObjectHideFlags: 0
