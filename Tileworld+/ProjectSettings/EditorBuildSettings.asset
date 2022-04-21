@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/Scenes/thirdencounter.unity
     guid: dbafb362f7ce86947bd4f2a10fdc6b57
+  - enabled: 1
+    path: Assets/Assets/Scenes/endscene.unity
+    guid: b5075186ff8baa54680c5b8118fc9cef
   m_configObjects: {}
