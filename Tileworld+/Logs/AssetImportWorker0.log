@@ -1599,3 +1599,2194 @@ System memory in use after: 120.6 MB.
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2855.
 Total: 2.960700 ms (FindLiveObjects: 0.381400 ms CreateObjectMapping: 0.060700 ms MarkObjects: 2.358800 ms  DeleteObjects: 0.158800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.084210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2857.
+Total: 3.326000 ms (FindLiveObjects: 0.382700 ms CreateObjectMapping: 0.072000 ms MarkObjects: 2.712800 ms  DeleteObjects: 0.157200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2859.
+Total: 2.845400 ms (FindLiveObjects: 0.422800 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.216500 ms  DeleteObjects: 0.128500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2861.
+Total: 2.840600 ms (FindLiveObjects: 0.419400 ms CreateObjectMapping: 0.090900 ms MarkObjects: 2.189000 ms  DeleteObjects: 0.140400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002576 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2863.
+Total: 3.713500 ms (FindLiveObjects: 0.520500 ms CreateObjectMapping: 0.069800 ms MarkObjects: 2.984600 ms  DeleteObjects: 0.137300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158504.911484 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirttop-pixilart.png
+  artifactKey: Guid(c6f91dabe3e40574f8eaffc0072cbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirttop-pixilart.png using Guid(c6f91dabe3e40574f8eaffc0072cbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8858154099973addf87dcce2e9cf080') in 0.067449 seconds
+  Import took 0.083494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.560053 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf682a69f6d43e37f051cd9ad6211d7') in 0.019749 seconds
+  Import took 0.026775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirttop-pixilart.asset
+  artifactKey: Guid(8951cb0ccdfba8a4db4df6444b7f5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirttop-pixilart.asset using Guid(8951cb0ccdfba8a4db4df6444b7f5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac8d3481003316e23421d15c700d704') in 0.044745 seconds
+  Import took 0.070778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.375108 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008f9df762ed8716ddaf75406adc5138') in 0.003553 seconds
+  Import took 0.020136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.776214 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd37c006469aae6da313894c49e5fe2') in 0.003079 seconds
+  Import took 0.017444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.460720 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788111e1a87324a572a39377bd47a6a2') in 0.003146 seconds
+  Import took 0.015913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirttop-pixilart.png
+  artifactKey: Guid(c6f91dabe3e40574f8eaffc0072cbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirttop-pixilart.png using Guid(c6f91dabe3e40574f8eaffc0072cbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9df131363a1cf975836160ab3b23ee') in 0.011041 seconds
+  Import took 0.014320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.231469 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d41d5599dd31ddc669958ad297d0d1') in 0.004530 seconds
+  Import took 0.012914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.981952 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtmid.png
+  artifactKey: Guid(9a063cb9ba1b4fe46a680cd4cf59b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtmid.png using Guid(9a063cb9ba1b4fe46a680cd4cf59b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df3f043c3fe23c0d6dedade09ae880a') in 0.013606 seconds
+  Import took 0.027711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.725691 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305a6289a9ecc3ecd2fc9d7a65e817ca') in 0.003283 seconds
+  Import took 0.007898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtmid.asset
+  artifactKey: Guid(3a161931b3d862c44bb5e3f525560468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtmid.asset using Guid(3a161931b3d862c44bb5e3f525560468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409f4b9d4a6399bf90503daa195f5865') in 0.005906 seconds
+  Import took 0.009346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.335880 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d6d39b4e1377bfb00d8f558b72cea3') in 0.003510 seconds
+  Import took 0.031848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtmid.png
+  artifactKey: Guid(9a063cb9ba1b4fe46a680cd4cf59b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtmid.png using Guid(9a063cb9ba1b4fe46a680cd4cf59b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13de235322dcf641fbf4d09abe7d96f3') in 0.009947 seconds
+  Import took 0.013242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.735015 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8896cea5de89accaa6a68a2075bb68') in 0.003360 seconds
+  Import took 0.007541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.290814 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7f9aa26ea172d38a4119f15bd32678') in 0.006774 seconds
+  Import took 0.022694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.261344 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988ee0a8e9d981b5e95000ea0bffc647') in 0.002928 seconds
+  Import took 0.021788 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2870.
+Total: 2.859000 ms (FindLiveObjects: 0.458100 ms CreateObjectMapping: 0.081500 ms MarkObjects: 2.191600 ms  DeleteObjects: 0.125800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002592 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 2.524800 ms (FindLiveObjects: 0.314000 ms CreateObjectMapping: 0.061600 ms MarkObjects: 2.026300 ms  DeleteObjects: 0.121800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.556550 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.png
+  artifactKey: Guid(8ad245df86b18e3489a1938e52ef0a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.png using Guid(8ad245df86b18e3489a1938e52ef0a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c590c3c7c80dd3c98a67222022d289') in 0.041968 seconds
+  Import took 0.046250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.261999 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.png
+  artifactKey: Guid(1c3515a05b54c764abe8364a435ade11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.png using Guid(1c3515a05b54c764abe8364a435ade11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c413c0335771b841c7348ec2d23087af') in 0.023679 seconds
+  Import took 0.028266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.993439 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.png
+  artifactKey: Guid(9347f5dad6b330740a05551d39ed4ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.png using Guid(9347f5dad6b330740a05551d39ed4ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec1cb0ce12bb410a688b1d7e63197d7') in 0.015187 seconds
+  Import took 0.019674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.736110 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirt-pixilart.png
+  artifactKey: Guid(c2b84131ce603a94e91674900929b189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirt-pixilart.png using Guid(c2b84131ce603a94e91674900929b189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b9bbb4b3ac5c7485f3c298ce290f1d') in 0.016885 seconds
+  Import took 0.021006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.103762 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirt-pixilart.png
+  artifactKey: Guid(c2b84131ce603a94e91674900929b189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirt-pixilart.png using Guid(c2b84131ce603a94e91674900929b189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf61b7985340af1092decd1e1715b555') in 0.028250 seconds
+  Import took 0.032700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.png
+  artifactKey: Guid(1c3515a05b54c764abe8364a435ade11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.png using Guid(1c3515a05b54c764abe8364a435ade11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b981bba36d27131904c9bbf0f8648e29') in 0.019688 seconds
+  Import took 0.023221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.png
+  artifactKey: Guid(8ad245df86b18e3489a1938e52ef0a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.png using Guid(8ad245df86b18e3489a1938e52ef0a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048e673436260d4b6d16ed4f62431e0a') in 0.005919 seconds
+  Import took 0.021284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.png
+  artifactKey: Guid(9347f5dad6b330740a05551d39ed4ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.png using Guid(9347f5dad6b330740a05551d39ed4ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b136b04035c83227200070b001a037') in 0.005547 seconds
+  Import took 0.008580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.071187 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d4c1914e574447ef771bc296a46710') in 0.011234 seconds
+  Import took 0.021145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.asset
+  artifactKey: Guid(ad9520a624b689540a8af0adc70d1349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassbottemright-pixilart.asset using Guid(ad9520a624b689540a8af0adc70d1349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd965008c6a421e5c6c2bb48e08d7cd0b') in 0.011456 seconds
+  Import took 0.015145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.013714 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8977d95d165ee5740a5f0837805e04cd') in 0.003201 seconds
+  Import took 0.007007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.asset
+  artifactKey: Guid(aff5c9a90aa5a6e4c95137a0fdc13668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrasslefttop-pixilart.asset using Guid(aff5c9a90aa5a6e4c95137a0fdc13668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dabbb17bb50420b89ea3407f1345a50') in 0.008005 seconds
+  Import took 0.011513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.789915 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c16da3734850870b1b567fb941b55e5') in 0.008121 seconds
+  Import took 0.012606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.asset
+  artifactKey: Guid(0c8e12ee081321942ace095cc0ff2175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirtgrassrighttop-pixilart.asset using Guid(0c8e12ee081321942ace095cc0ff2175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b50abafdf9d2052b8f8d22c0d1b14a') in 0.006261 seconds
+  Import took 0.013999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.277352 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c7d72634e9d7cf3be153706dd91373') in 0.003192 seconds
+  Import took 0.007787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Assets/Sprites/tilemaps/dirt-pixilart.asset
+  artifactKey: Guid(a8d80cb3a06be094cb8669be33524ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/dirt-pixilart.asset using Guid(a8d80cb3a06be094cb8669be33524ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0123cbd82de2b319db17600e021a19') in 0.005977 seconds
+  Import took 0.015395 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2876.
+Total: 2.732200 ms (FindLiveObjects: 0.372800 ms CreateObjectMapping: 0.067500 ms MarkObjects: 2.180800 ms  DeleteObjects: 0.110200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 693.826795 seconds.
+  path: Assets/Assets/Sprites/tilemaps/brickmid.png
+  artifactKey: Guid(5bc127c0f82635b4589424cd92359de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/brickmid.png using Guid(5bc127c0f82635b4589424cd92359de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1c89668dd759fbba0e7e6402e3a4cc') in 0.055516 seconds
+  Import took 0.060000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.161537 seconds.
+  path: Assets/Assets/Sprites/tilemaps/brickmid.png
+  artifactKey: Guid(5bc127c0f82635b4589424cd92359de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/brickmid.png using Guid(5bc127c0f82635b4589424cd92359de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f69730b0fb4a76904c82026481ae2b') in 0.030038 seconds
+  Import took 0.034230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.684903 seconds.
+  path: Assets/Assets/Sprites/tilemaps/brickmid.asset
+  artifactKey: Guid(664d3d920bf2dc64fab71ad0e5a59aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/brickmid.asset using Guid(664d3d920bf2dc64fab71ad0e5a59aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feed516f1edabcef10c29a2cfb9ffc83') in 0.013899 seconds
+  Import took 0.025351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93a1c90f0e9c8c494da2febf0c714bd') in 0.006650 seconds
+  Import took 0.021455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 652.586344 seconds.
+  path: Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.png
+  artifactKey: Guid(11c7ba944772b68478c68cf7cea0ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.png using Guid(11c7ba944772b68478c68cf7cea0ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8856eb328e762666793fc2316a2f2053') in 0.063015 seconds
+  Import took 0.076765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.700572 seconds.
+  path: Assets/Assets/Sprites/tilemaps/sr2d44e5b3b2b7f.png
+  artifactKey: Guid(416f2ec33e87b114faa3f4fb0aab3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/sr2d44e5b3b2b7f.png using Guid(416f2ec33e87b114faa3f4fb0aab3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21acd58b69d60190903d79c0102e4236') in 0.010863 seconds
+  Import took 0.025102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.477752 seconds.
+  path: Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.png
+  artifactKey: Guid(11c7ba944772b68478c68cf7cea0ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.png using Guid(11c7ba944772b68478c68cf7cea0ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1698d5dec53f5e919ce79d389f4b3e') in 0.013994 seconds
+  Import took 0.025462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Assets/Sprites/tilemaps/sr2d44e5b3b2b7f.png
+  artifactKey: Guid(416f2ec33e87b114faa3f4fb0aab3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/sr2d44e5b3b2b7f.png using Guid(416f2ec33e87b114faa3f4fb0aab3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2149a1c57e68f929ec19e4fc4795dcb7') in 0.010445 seconds
+  Import took 0.013881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.740989 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f5ec1fdb01c07bbe3e87c4b2d03879') in 0.003500 seconds
+  Import took 0.007409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.198571 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1fee8551432c2215d9de089446d511') in 0.003123 seconds
+  Import took 0.007256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.asset
+  artifactKey: Guid(137f047b4fa1e404884c0dc4ec7e90a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/sr202ec9d5d7663.asset using Guid(137f047b4fa1e404884c0dc4ec7e90a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d97046958a6c91a1d780fc57593eb3d') in 0.010294 seconds
+  Import took 0.013249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 847.334928 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).png
+  artifactKey: Guid(91288c2c020f38f48bc0b4f990b62567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).png using Guid(91288c2c020f38f48bc0b4f990b62567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839c8f182de857e02d7541d7181c94e6') in 0.043772 seconds
+  Import took 0.055219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.866343 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96677a5a73c6250be548e201262d87f7') in 0.003180 seconds
+  Import took 0.025060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).png
+  artifactKey: Guid(a9c4ecb018c7d854586f0ce0ee595e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).png using Guid(a9c4ecb018c7d854586f0ce0ee595e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b0287960876cf43deac15b3b53c69f') in 0.016359 seconds
+  Import took 0.035205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.221716 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).png
+  artifactKey: Guid(91288c2c020f38f48bc0b4f990b62567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).png using Guid(91288c2c020f38f48bc0b4f990b62567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e8fb8e3b397804c1b3096d1b1192c3') in 0.008852 seconds
+  Import took 0.029460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).png
+  artifactKey: Guid(a9c4ecb018c7d854586f0ce0ee595e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).png using Guid(a9c4ecb018c7d854586f0ce0ee595e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95297221c42d4930829ad5bacdc26375') in 0.030153 seconds
+  Import took 0.038928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.232903 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efd78ea1f1c86196735089b1abd31d6') in 0.003050 seconds
+  Import took 0.007271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.575827 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c4d2b61fb0841462a7f66590ceec3d') in 0.002981 seconds
+  Import took 0.009985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).asset
+  artifactKey: Guid(a18f1d8155899bb4186f1fb8b661ad33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (28).asset using Guid(a18f1d8155899bb4186f1fb8b661ad33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea48da74f88a14931a78d8b4e39dfba') in 0.011794 seconds
+  Import took 0.015239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.543083 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051b6eb5c8d4c558ea2b642320178ec4') in 0.003643 seconds
+  Import took 0.016244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).asset
+  artifactKey: Guid(fc9e33e8661ffc446869cd0f6931b883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (27).asset using Guid(fc9e33e8661ffc446869cd0f6931b883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfd369ab0907867c9726d0e1bab3bb92') in 0.006885 seconds
+  Import took 0.019131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.807810 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7038352f7c14966777d6ee49d0700440') in 0.003353 seconds
+  Import took 0.019445 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.045885 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2880.
+Total: 2.882100 ms (FindLiveObjects: 0.412100 ms CreateObjectMapping: 0.093700 ms MarkObjects: 2.260300 ms  DeleteObjects: 0.115200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 2.776900 ms (FindLiveObjects: 0.332200 ms CreateObjectMapping: 0.063800 ms MarkObjects: 2.258300 ms  DeleteObjects: 0.121500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.072324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 3.326200 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.066300 ms MarkObjects: 2.759100 ms  DeleteObjects: 0.136900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1483.596534 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).png
+  artifactKey: Guid(587feeccc21ee084aa69318b7ac60e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).png using Guid(587feeccc21ee084aa69318b7ac60e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f60c4b9094fd743585316e7b65c48b') in 0.061072 seconds
+  Import took 0.072093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.698501 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9446377f8e41574a540a458c7ef3dcda') in 0.007410 seconds
+  Import took 0.026502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).asset
+  artifactKey: Guid(26c3c9dffb36fc04ebca74f22e6d54a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).asset using Guid(26c3c9dffb36fc04ebca74f22e6d54a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f78dd70783068c9b73a2b3348b6847e') in 0.015580 seconds
+  Import took 0.028395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.430092 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).png
+  artifactKey: Guid(587feeccc21ee084aa69318b7ac60e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (29).png using Guid(587feeccc21ee084aa69318b7ac60e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9128f758be45fd3193a25b235785632') in 0.020609 seconds
+  Import took 0.033141 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2888.
+Total: 2.747200 ms (FindLiveObjects: 0.319200 ms CreateObjectMapping: 0.068300 ms MarkObjects: 2.237800 ms  DeleteObjects: 0.120900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2890.
+Total: 3.079000 ms (FindLiveObjects: 0.348500 ms CreateObjectMapping: 0.074600 ms MarkObjects: 2.529200 ms  DeleteObjects: 0.125700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1209.933009 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).png
+  artifactKey: Guid(7961b6b829b56ae4f84d26bde4ca3097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).png using Guid(7961b6b829b56ae4f84d26bde4ca3097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e1a7248fa74f08fd7c3ee4fa406de6') in 0.042353 seconds
+  Import took 0.061639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).png
+  artifactKey: Guid(c1bf6a3feeaa71d4096f13ff85f78b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).png using Guid(c1bf6a3feeaa71d4096f13ff85f78b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf5fcfa4f299292fd4fc3a27c05976c') in 0.036235 seconds
+  Import took 0.039525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png
+  artifactKey: Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png using Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d51755c0e616e39a0ede66bb7997866') in 0.016931 seconds
+  Import took 0.029680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.208034 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).png
+  artifactKey: Guid(7961b6b829b56ae4f84d26bde4ca3097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).png using Guid(7961b6b829b56ae4f84d26bde4ca3097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb7d2e7cbb8318d33bbb6b71e6f22b5') in 0.005273 seconds
+  Import took 0.014422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).png
+  artifactKey: Guid(c1bf6a3feeaa71d4096f13ff85f78b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).png using Guid(c1bf6a3feeaa71d4096f13ff85f78b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef15cd3a66f43052625953064740c49') in 0.005177 seconds
+  Import took 0.011078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png
+  artifactKey: Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png using Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a1ea5d3854f017ed210e4382e85427') in 0.005634 seconds
+  Import took 0.025325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001525 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png
+  artifactKey: Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).png using Guid(9f8af3293e62e004a9e5bfdad4e88452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a1ea5d3854f017ed210e4382e85427') in 0.006702 seconds
+  Import took 0.010601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.021761 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47de67ae276131afa0e935ab1fa9c2a2') in 0.007487 seconds
+  Import took 0.019820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).asset
+  artifactKey: Guid(1e6960b41a554e84b88477508174ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (30).asset using Guid(1e6960b41a554e84b88477508174ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55bb30f91fdf9593bc625efa5cbd6490') in 0.012222 seconds
+  Import took 0.021719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.413956 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d60956460f5f775c954fa2467d3b65e') in 0.003623 seconds
+  Import took 0.007382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).asset
+  artifactKey: Guid(ec41f83593af72d46b7c235bbfa48f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (32).asset using Guid(ec41f83593af72d46b7c235bbfa48f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a581a0f50e54e86db5fb5c0aafef35b') in 0.006731 seconds
+  Import took 0.009683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.911100 seconds.
+  path: Assets/Assets/Sprites/tilemaps/bricks.prefab
+  artifactKey: Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/bricks.prefab using Guid(2bad55ef914c8084fa0dfccc9037f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89df4fa4d7b329fa4fcd6bb0d3813461') in 0.003417 seconds
+  Import took 0.016591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).asset
+  artifactKey: Guid(97caaa8d330cfbd4e98d58c26ba1097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/tilemaps/pixil-frame-0 (31).asset using Guid(97caaa8d330cfbd4e98d58c26ba1097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9ca812cdba49bab3353ad8c694f07d') in 0.014780 seconds
+  Import took 0.026044 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2894.
+Total: 2.740600 ms (FindLiveObjects: 0.295300 ms CreateObjectMapping: 0.064100 ms MarkObjects: 2.261000 ms  DeleteObjects: 0.119100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.467899 seconds.
+  path: Assets/Assets/scripts/Death.cs
+  artifactKey: Guid(7d4aceabafc9c474d85325ac66a3840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/Death.cs using Guid(7d4aceabafc9c474d85325ac66a3840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bb81cfc572bcb78642566effe80477') in 0.008645 seconds
+  Import took 0.012713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014664 seconds.
+  path: Assets/Assets/scripts/Death.cs
+  artifactKey: Guid(7d4aceabafc9c474d85325ac66a3840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/Death.cs using Guid(7d4aceabafc9c474d85325ac66a3840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bb81cfc572bcb78642566effe80477') in 0.001769 seconds
+  Import took 0.005167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2896.
+Total: 2.713600 ms (FindLiveObjects: 0.331500 ms CreateObjectMapping: 0.071700 ms MarkObjects: 2.189600 ms  DeleteObjects: 0.119500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2898.
+Total: 2.560600 ms (FindLiveObjects: 0.357300 ms CreateObjectMapping: 0.092100 ms MarkObjects: 1.990000 ms  DeleteObjects: 0.120300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2900.
+Total: 2.534200 ms (FindLiveObjects: 0.299100 ms CreateObjectMapping: 0.066800 ms MarkObjects: 2.055200 ms  DeleteObjects: 0.112100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002553 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2902.
+Total: 2.617500 ms (FindLiveObjects: 0.375400 ms CreateObjectMapping: 0.071000 ms MarkObjects: 2.051100 ms  DeleteObjects: 0.118600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2904.
+Total: 2.463200 ms (FindLiveObjects: 0.281400 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.997100 ms  DeleteObjects: 0.118200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.826 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2906.
+Total: 2.628600 ms (FindLiveObjects: 0.315300 ms CreateObjectMapping: 0.068500 ms MarkObjects: 2.132100 ms  DeleteObjects: 0.111500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2908.
+Total: 2.638500 ms (FindLiveObjects: 0.327100 ms CreateObjectMapping: 0.072700 ms MarkObjects: 2.122600 ms  DeleteObjects: 0.114800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002564 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2911.
+Total: 2.744200 ms (FindLiveObjects: 0.307100 ms CreateObjectMapping: 0.187800 ms MarkObjects: 2.131400 ms  DeleteObjects: 0.117000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 421.268042 seconds.
+  path: Assets/Assets/scripts/platformer scripts/Spike.cs
+  artifactKey: Guid(a5823bf75ac6f6c41b696d3a10ae53ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/platformer scripts/Spike.cs using Guid(a5823bf75ac6f6c41b696d3a10ae53ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e63469b240dacac4df66091941dfaca') in 0.008026 seconds
+  Import took 0.017353 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002899 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2913.
+Total: 2.472400 ms (FindLiveObjects: 0.310800 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.983000 ms  DeleteObjects: 0.116300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002457 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2915.
+Total: 2.519900 ms (FindLiveObjects: 0.294300 ms CreateObjectMapping: 0.073100 ms MarkObjects: 2.039000 ms  DeleteObjects: 0.112700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2917.
+Total: 2.801000 ms (FindLiveObjects: 0.366300 ms CreateObjectMapping: 0.137400 ms MarkObjects: 2.165200 ms  DeleteObjects: 0.131000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2919.
+Total: 2.754400 ms (FindLiveObjects: 0.332500 ms CreateObjectMapping: 0.075500 ms MarkObjects: 2.225900 ms  DeleteObjects: 0.119500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2921.
+Total: 2.851400 ms (FindLiveObjects: 0.336100 ms CreateObjectMapping: 0.065400 ms MarkObjects: 2.318800 ms  DeleteObjects: 0.130400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 2.758000 ms (FindLiveObjects: 0.435900 ms CreateObjectMapping: 0.064400 ms MarkObjects: 2.135200 ms  DeleteObjects: 0.121200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 3.472600 ms (FindLiveObjects: 0.391300 ms CreateObjectMapping: 0.071100 ms MarkObjects: 2.868700 ms  DeleteObjects: 0.140500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2927.
+Total: 2.417000 ms (FindLiveObjects: 0.283300 ms CreateObjectMapping: 0.060900 ms MarkObjects: 1.960100 ms  DeleteObjects: 0.111800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002663 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2929.
+Total: 2.616200 ms (FindLiveObjects: 0.288300 ms CreateObjectMapping: 0.065500 ms MarkObjects: 2.142100 ms  DeleteObjects: 0.119300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 2.733800 ms (FindLiveObjects: 0.333500 ms CreateObjectMapping: 0.063500 ms MarkObjects: 2.213700 ms  DeleteObjects: 0.121800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.811 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2933.
+Total: 2.621500 ms (FindLiveObjects: 0.340000 ms CreateObjectMapping: 0.077400 ms MarkObjects: 2.088300 ms  DeleteObjects: 0.115000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002766 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2935.
+Total: 2.605500 ms (FindLiveObjects: 0.409500 ms CreateObjectMapping: 0.077800 ms MarkObjects: 2.003300 ms  DeleteObjects: 0.114100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2937.
+Total: 2.696600 ms (FindLiveObjects: 0.401600 ms CreateObjectMapping: 0.067600 ms MarkObjects: 2.098400 ms  DeleteObjects: 0.127100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002622 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2939.
+Total: 2.570400 ms (FindLiveObjects: 0.361900 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.033100 ms  DeleteObjects: 0.112500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2941.
+Total: 3.036100 ms (FindLiveObjects: 0.306600 ms CreateObjectMapping: 0.063600 ms MarkObjects: 2.515000 ms  DeleteObjects: 0.150000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1268.383850 seconds.
+  path: Assets/Assets/Sprites/Stuff/Player.prefab
+  artifactKey: Guid(c373fea4363b1614b8a68704e057f00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Sprites/Stuff/Player.prefab using Guid(c373fea4363b1614b8a68704e057f00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163ffb20a16df36fadaa704aa77afce6') in 0.067570 seconds
+  Import took 0.083485 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2944.
+Total: 2.740000 ms (FindLiveObjects: 0.356500 ms CreateObjectMapping: 0.061600 ms MarkObjects: 2.188200 ms  DeleteObjects: 0.132800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.191457 seconds.
+  path: Assets/Assets/scripts/platformer scripts/Enemy_Sideways.cs
+  artifactKey: Guid(a5780767929ad5f4fb3195bb4224b6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/platformer scripts/Enemy_Sideways.cs using Guid(a5780767929ad5f4fb3195bb4224b6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8670511c9c9700824cafac2d106507d6') in 0.004913 seconds
+  Import took 0.017250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.196780 seconds.
+  path: Assets/Assets/scripts/platformer scripts/jump.cs
+  artifactKey: Guid(697364fc89be889418c886bd6a7950d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/platformer scripts/jump.cs using Guid(697364fc89be889418c886bd6a7950d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a65e4fc6424a344f8bced97dabe50a') in 0.006069 seconds
+  Import took 0.016622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.657184 seconds.
+  path: Assets/Assets/scripts/platformer scripts/CamaraFollow.cs
+  artifactKey: Guid(77e14ffe194cd9d4f9cf62894c23b89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/scripts/platformer scripts/CamaraFollow.cs using Guid(77e14ffe194cd9d4f9cf62894c23b89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3008a1e418333bc57ccd1ff0dbe8a4b') in 0.006202 seconds
+  Import took 0.022732 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2946.
+Total: 2.648800 ms (FindLiveObjects: 0.302400 ms CreateObjectMapping: 0.071500 ms MarkObjects: 2.148300 ms  DeleteObjects: 0.125500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2948.
+Total: 2.742800 ms (FindLiveObjects: 0.329000 ms CreateObjectMapping: 0.063100 ms MarkObjects: 2.225200 ms  DeleteObjects: 0.124200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2950.
+Total: 2.506200 ms (FindLiveObjects: 0.329200 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.990800 ms  DeleteObjects: 0.115400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.087944 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.437 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2952.
+Total: 2.843800 ms (FindLiveObjects: 0.497800 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.132400 ms  DeleteObjects: 0.135600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2954.
+Total: 2.857400 ms (FindLiveObjects: 0.308100 ms CreateObjectMapping: 0.064800 ms MarkObjects: 2.369800 ms  DeleteObjects: 0.113500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2956.
+Total: 2.841100 ms (FindLiveObjects: 0.330500 ms CreateObjectMapping: 0.070400 ms MarkObjects: 2.318000 ms  DeleteObjects: 0.120500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2958.
+Total: 2.622500 ms (FindLiveObjects: 0.330700 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.094600 ms  DeleteObjects: 0.116900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2960.
+Total: 3.294100 ms (FindLiveObjects: 0.397700 ms CreateObjectMapping: 0.081500 ms MarkObjects: 2.686800 ms  DeleteObjects: 0.126800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2962.
+Total: 2.654200 ms (FindLiveObjects: 0.335600 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.129400 ms  DeleteObjects: 0.116100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002646 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2964.
+Total: 3.158500 ms (FindLiveObjects: 0.339300 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.613100 ms  DeleteObjects: 0.126400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.9 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2966.
+Total: 2.807200 ms (FindLiveObjects: 0.446700 ms CreateObjectMapping: 0.162700 ms MarkObjects: 2.074700 ms  DeleteObjects: 0.122100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2968.
+Total: 2.778400 ms (FindLiveObjects: 0.418000 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.171600 ms  DeleteObjects: 0.112900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002922 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2970.
+Total: 2.947200 ms (FindLiveObjects: 0.385000 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.357100 ms  DeleteObjects: 0.122100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2972.
+Total: 3.212800 ms (FindLiveObjects: 0.424700 ms CreateObjectMapping: 0.189700 ms MarkObjects: 2.478400 ms  DeleteObjects: 0.118400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2974.
+Total: 3.138100 ms (FindLiveObjects: 0.367500 ms CreateObjectMapping: 0.064200 ms MarkObjects: 2.584200 ms  DeleteObjects: 0.120800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2976.
+Total: 2.791300 ms (FindLiveObjects: 0.375400 ms CreateObjectMapping: 0.062700 ms MarkObjects: 2.225900 ms  DeleteObjects: 0.125900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2978.
+Total: 2.726400 ms (FindLiveObjects: 0.378600 ms CreateObjectMapping: 0.067400 ms MarkObjects: 2.162200 ms  DeleteObjects: 0.117300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002688 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2980.
+Total: 2.934000 ms (FindLiveObjects: 0.429100 ms CreateObjectMapping: 0.066800 ms MarkObjects: 2.313300 ms  DeleteObjects: 0.123900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2982.
+Total: 2.579800 ms (FindLiveObjects: 0.317000 ms CreateObjectMapping: 0.070000 ms MarkObjects: 2.081000 ms  DeleteObjects: 0.110800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2984.
+Total: 2.983500 ms (FindLiveObjects: 0.634000 ms CreateObjectMapping: 0.070100 ms MarkObjects: 2.133500 ms  DeleteObjects: 0.144800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2986.
+Total: 3.260200 ms (FindLiveObjects: 0.522100 ms CreateObjectMapping: 0.077500 ms MarkObjects: 2.528200 ms  DeleteObjects: 0.130600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2988.
+Total: 2.782900 ms (FindLiveObjects: 0.442800 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.144300 ms  DeleteObjects: 0.122800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2990.
+Total: 2.961100 ms (FindLiveObjects: 0.359000 ms CreateObjectMapping: 0.096100 ms MarkObjects: 2.377500 ms  DeleteObjects: 0.127400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.0 MB.
+System memory in use after: 121.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2992.
+Total: 2.812900 ms (FindLiveObjects: 0.464400 ms CreateObjectMapping: 0.164900 ms MarkObjects: 2.057800 ms  DeleteObjects: 0.124500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002685 seconds.
+Callback registration failed. Increase kMaxCallback.
+
+Fatal Error! Callback registration failed. Increase kMaxCallback.
+
+Crash!!!
+SymInit: Symbol-SearchPath: 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Mono;.;D:\TileWorld\Tileworld+;C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: '517073'
+OS-Version: 10.0.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe:Unity.exe (00007FF6F0CE0000), size: 134725632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.4.47971
+C:\windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF833390000), size: 2052096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF8329A0000), size: 778240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF830C70000), size: 2916352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF830F70000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF8312A0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\windows\System32\USER32.dll:USER32.dll (00007FF832FA0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\windows\System32\win32u.dll:win32u.dll (00007FF831270000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\windows\System32\GDI32.dll:GDI32.dll (00007FF832970000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\System32\gdi32full.dll:gdi32full.dll (00007FF830B60000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FFF9DBD0000), size: 8974336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.0.0.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\optix.6.0.0.dll:optix.6.0.0.dll (00007FF81C2F0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.0.0.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\OpenImageDenoise.dll:OpenImageDenoise.dll (00007FFF9B200000), size: 43806720 (result: 0), SymType: '-deferred-', PDB: ''
+C:\windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF8310D0000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF8323A0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1466
+C:\windows\System32\msvcrt.dll:msvcrt.dll (00007FF831D50000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\windows\System32\sechost.dll:sechost.dll (00007FF831DF0000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF832D20000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FF8175F0000), size: 1306624 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6414336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.18.0.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FF817460000), size: 1609728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\windows\System32\WS2_32.dll:WS2_32.dll (00007FF832A60000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\System32\SHELL32.dll:SHELL32.dll (00007FF831600000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\System32\WLDAP32.dll:WLDAP32.dll (00007FF8324A0000), size: 352256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FF82D2E0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.1812.6001
+C:\windows\System32\Normaliz.dll:Normaliz.dll (00007FF832AD0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF832340000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\windows\System32\ole32.dll:ole32.dll (00007FF832B40000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\tbb.dll:tbb.dll (00007FF8173F0000), size: 413696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2017.0.2016.1004
+C:\windows\System32\combase.dll:combase.dll (00007FF831FE0000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF80FBC0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.29.30139.0
+C:\windows\System32\IMM32.dll:IMM32.dll (00007FF832450000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF832500000), size: 4628480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF80FBE0000), size: 577536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.29.30139.0
+C:\windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF8313A0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FF8303C0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\System32\bcrypt.dll:bcrypt.dll (00007FF830F40000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FF814F40000), size: 978944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40664.0
+C:\windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FF815030000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40664.0
+C:\windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF832E50000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF815300000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF82A3F0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\System32\WINTRUST.dll:WINTRUST.dll (00007FF831200000), size: 425984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF82FEA0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF815EA0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.29.30139.0
+C:\windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF82FAB0000), size: 1089536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF81E2A0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\HID.DLL:HID.DLL (00007FF82F280000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\RadeonImageFilters.dll:RadeonImageFilters.dll (00007FF80B350000), size: 2535424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.1.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FFF9A970000), size: 8978432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.0
+C:\windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF82B380000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FF81EC30000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FF816470000), size: 483328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.20342
+C:\windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF82BA40000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF830970000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\OpenRL.dll:OpenRL.dll (000002047B370000), size: 12779520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.0.2907
+C:\windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (00000000710A0000), size: 860160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+C:\windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (0000000071180000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\embree.dll:embree.dll (00007FFF99980000), size: 16711680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.14.0.0
+C:\windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FF8301B0000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000002047BFC0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.9.0.0
+C:\windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FF8305D0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF82E8E0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF831170000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\windows\system32\uxtheme.dll:uxtheme.dll (00007FF82E400000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\System32\shcore.dll:shcore.dll (00007FF831E90000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF82EAE0000), size: 7946240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FF830450000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\profapi.dll:profapi.dll (00007FF8309F0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\windows\System32\clbcatq.dll:clbcatq.dll (00007FF832C70000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\windows\System32\netprofm.dll:netprofm.dll (00007FF82C380000), size: 253952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\windows\System32\NSI.dll:NSI.dll (00007FF831FD0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\windows\System32\npmproxy.dll:npmproxy.dll (00007FF81CFD0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FF82B920000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FF82B810000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF82FEE0000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FF82BC00000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FF82AC60000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF82CE20000), size: 2506752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF82F2F0000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_b8346c359fcd6093\nvldumdx.dll:nvldumdx.dll (00007FF824100000), size: 1073152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 30.0.14.7196
+C:\windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF82B340000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FF828900000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\SYSTEM32\devobj.dll:devobj.dll (00007FF830790000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\System32\imagehlp.dll:imagehlp.dll (00007FF832480000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF8303A0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\system32\rsaenh.dll:rsaenh.dll (00007FF82FA20000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_b8346c359fcd6093\nvwgf2umx.dll:nvwgf2umx.dll (00007FFFCF9B0000), size: 77615104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 30.0.14.7196
+C:\windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FF82A850000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF81CA80000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF823F00000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF81D0E0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\windows\system32\wbem\fastprox.dll:fastprox.dll (00007FF81C5E0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\amsi.dll:amsi.dll (00007FF8173B0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FF8309B0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2203.5-0\MpOav.dll:MpOav.dll (00007FF817330000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2203.5
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\cudart64_90.dll:cudart64_90.dll (00007FFFF8B60000), size: 397312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.14.11.9000
+C:\windows\SYSTEM32\opencl.dll:opencl.dll (00007FFFF7420000), size: 1482752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.1.0
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\radeonrays.dll:radeonrays.dll (00007FFFF7670000), size: 552960 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFF980E0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\windows\System32\PSAPI.DLL:PSAPI.DLL (00007FF833340000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\ProgramData\Microsoft\VisualStudio\Setup\x64\Microsoft.VisualStudio.Setup.Configuration.Native.dll:Microsoft.VisualStudio.Setup.Configuration.Native.dll (00007FFFF98B0000), size: 327680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.3111.17308
+C:\windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FF8299A0000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.1023
+C:\windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll:comctl32.dll (00007FF81B800000), size: 2727936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.19041.1110
+C:\windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FF828190000), size: 1785856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1151
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FF802040000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1151
+C:\Windows\System32\MrmCoreR.dll:MrmCoreR.dll (00007FF829040000), size: 999424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FF825330000), size: 2822144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.19041.1586
+C:\windows\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FF81D950000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1466
+C:\Windows\System32\bcp47mrm.dll:bcp47mrm.dll (00007FF827850000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FF8287B0000), size: 1314816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FF828F90000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\TextInputFramework.dll:TextInputFramework.dll (00007FF8286B0000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FF828550000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FF82D590000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1348
+C:\windows\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (00007FF828A70000), size: 2101248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FF82DB70000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FF82DDB0000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF82F640000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1645_none_91a2a668cc89980b\gdiplus.dll:gdiplus.dll (00007FF81DC80000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1645
+C:\windows\System32\MSCTF.dll:MSCTF.dll (00007FF833140000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\edputil.dll:edputil.dll (00007FF801FE0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FF81B280000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1466
+C:\windows\SYSTEM32\policymanager.dll:policymanager.dll (00007FF82B700000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\windows\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FF82FBC0000), size: 565248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF81CB50000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF830CA4F69 (KERNELBASE) RaiseException
+0x00007FF6F340515D (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF6F34060AA (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF6F4FC184E (Unity) DebugStringToFilePostprocessedStacktrace
+0x00007FF6F4FC0DFF (Unity) DebugStringToFile
+0x00007FF6F0F43973 (Unity) CallbackArraySubBase<void (__cdecl*)(MemoryManager::AllocationLogDetails const & __ptr64)>::Register
+0x00007FF6F3BD5539 (Unity) LoadDomainAndUserAssemblies
+0x00007FF6F3BD59EE (Unity) LoadUserAssemblies
+0x00007FF6F400A1A8 (Unity) <lambda_79a3ebc38cb5166d44d10a16a21fca24>::operator()
+0x00007FF6F40D53A2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007FF6F40D7500 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007FF6F40DAC8E (Unity) asio::io_service::run
+0x00007FF6F4050D10 (Unity) RunAssetImportWorkerClientV2
+0x00007FF6F4050D60 (Unity) RunAssetImporterV2
+0x00007FF6F355D086 (Unity) Application::InitializeProject
+0x00007FF6F3EDD292 (Unity) WinMain
+0x00007FF6F5D55FC6 (Unity) __scrt_common_main_seh
+0x00007FF8329B7034 (KERNEL32) BaseThreadInitThunk
+0x00007FF8333E2651 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/517073/AppData/Local/Temp/Unity/Editor/Crashes
