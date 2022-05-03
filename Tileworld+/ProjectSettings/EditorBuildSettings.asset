@@ -12,14 +12,20 @@ EditorBuildSettings:
     path: Assets/Assets/Scenes/gameover.unity
     guid: b434f28c2948c8d42842ba1cb65185c9
   - enabled: 1
-    path: Assets/Assets/Scenes/firstlevel.unity
+    path: Assets/Assets/Scenes/level1.unity
     guid: b56985fcc8e02ea47b0d6ad4c0be4df2
   - enabled: 1
     path: Assets/Assets/Scenes/firstencounter.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Assets/Scenes/level2.unity
+    guid: 9d5ce514da6d146478487cd0a59dbf8f
+  - enabled: 1
     path: Assets/Assets/Scenes/secondencounter.unity
     guid: dd2327bc88cfd4a4bb1fb0b97a6ddd76
+  - enabled: 1
+    path: Assets/Assets/Scenes/level3.unity
+    guid: d884c4a4191c3d5409e8c5b7bfe38aa3
   - enabled: 1
     path: Assets/Assets/Scenes/thirdencounter.unity
     guid: dbafb362f7ce86947bd4f2a10fdc6b57
