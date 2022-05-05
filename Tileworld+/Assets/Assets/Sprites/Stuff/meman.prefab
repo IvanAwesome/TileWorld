@@ -98,6 +98,6 @@ MonoBehaviour:
   unitName: Dev Dude
   unitLevel: 30
   damage: 50
-  maxHP: 120
-  currentHP: 120
+  maxHP: 115
+  currentHP: 115
   dialogue: {fileID: 0}
