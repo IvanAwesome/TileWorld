@@ -125,7 +125,7 @@ public class BattleSystem : MonoBehaviour
 
 	IEnumerator PlayerHeal()
 	{
-		playerUnit.Heal(11);
+		playerUnit.Heal(20);
 
 		playerHUD.SetHP(playerUnit.currentHP);
 		dialogueText.text = "You regenerate unnaturally!";
